@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can find the source code and the instructions on <a href="https://github.com/jdstamp/home">GitHub</a>.
 </p>
