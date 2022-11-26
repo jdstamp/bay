@@ -30,6 +30,8 @@ footer:
       link: http://linkedin.com/in/julian-stamp-03a5a3179
     - name: GitHub
       link: http://github.com/jdstamp
+    - name: ORCID
+      link: https://orcid.org/0000-0003-3014-6249
 
 # Build settings
 markdown: kramdown
