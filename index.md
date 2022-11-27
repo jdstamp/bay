@@ -6,9 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a researcher pursuing a PhD in computer science and computational sciences at the Center for Computational Molecular Biology at Brown University. I am a member of the <a href="http://www.lcrawlab.com/">Crawford Lab</a> and the <a href="https://www.brown.edu/research/labs/weinreich/">Weinreich Lab</a>.
+  My research focuses on developing statistical methods to study the genetic architecture of complex traits and how nonlinear interactions between multiple genes and between genes and the environment shape evolution.
 </p>
 
+
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/jdstamp/home">GitHub</a>.
+  When I am not working, I enjoy running, traveling, and recently gardening.
 </p>
